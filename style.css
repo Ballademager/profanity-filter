@@ -1,0 +1,18 @@
+body {
+  background-color: bisque;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+div {
+  margin-top: 5rem;
+}
+button {
+  margin-top: 2rem;
+  background-color: aliceblue;
+  padding: 1rem;
+  font-size: 1.2rem;
+}
+b {
+  color: red;
+}
